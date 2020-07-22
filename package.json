@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-proyect",
+  "version": "1.0.0",
+  "description": "My proyect of bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angie Hernandez",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
